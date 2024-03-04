@@ -1,0 +1,18 @@
+  .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                font-family:times new roman;
+                background: #CDB3F1;
+            }
+           
+ 
+            .section {
+               background-color: #E9E2FA;
+               padding: 20px;
+               margin-top: 30px;
+               text-align: center;
+               img {border-style: solid;}
+            }
+
+
